@@ -80,7 +80,5 @@ Distributed under the [MIT License](https://opensource.org/license/mit/). See [L
 As a UC Berkeley student and tech professional, I want to continue to learn and create effective code. Please reach out to UC Berkeley to access the source code or reach out to me to offer your own solutions. 
 
 
-Deployed Link: https://maislinn.github.io/
-
 Maislinn Helfer | Github @maislinn
 
