@@ -46,11 +46,13 @@ In your internal terminal run:
 ## Usage
 The following animation demonstrates the application functionality:
 
-![Insomnia demo maislinn](./Assets/Insomnia_Demo_Maislinn.png)
-![Insomnia demo Maislinn 2](./Assets/Post_Insomnia_Demo_Maislinn_Helfer.jpg)
-![Insomnia demo Maislinn 3](./Assets/Delete_Insomnia_Demo_Maislinn.jpg)
+![Insomnia demo maislinn](/Assets/Insomnia_Demo_Maislinn_Helfer.png)
+![Insomnia demo Maislinn 2](/Assets/Post_Insomnia_Demo_Maislinn_Helfer.jpg)
+![Insomnia demo Maislinn 3](/Assets/Delete_Insomnia_Demo_Maislinn_Helfer.jpg)
 
-[Video Demo:](./Assets/Maislinn_Ecommerce_Demo.mp4)
+![Video Demo Here](/Assets/Maislinn_Ecommerce_Demo.mp4)
+
+
 
 ## Features
 - MySQL 
