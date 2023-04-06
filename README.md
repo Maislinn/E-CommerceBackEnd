@@ -34,16 +34,29 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ## Installation
+In your internal terminal run:
 - NPM I
+- MySql -u root -p
+- "Enter In Password"
+- Source db/schema.sql
+- Exit
+- Node Seeds
+- NPM Start
 
 ## Usage
-The following animation demonstrates the application functionality (animation provided in instructions):
+The following animation demonstrates the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+![Insomnia demo maislinn](./Assets/Insomnia_Demo_Maislinn.png)
+![Insomnia demo Maislinn 2](./Assets/Post_Insomnia_Demo_Maislinn_Helfer.jpg)
+![Insomnia demo Maislinn 3](./Assets/Delete_Insomnia_Demo_Maislinn.jpg)
+
+[Video Demo:](./Assets/Maislinn_Ecommerce_Demo.mp4)
 
 ## Features
 - MySQL 
 - Express.js API
+- Insomnia
+
 
 ## Credits
 - UC Berkeley Extension 2023
